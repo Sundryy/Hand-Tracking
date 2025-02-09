@@ -1,7 +1,7 @@
 import cv2
 import mediapipe as mp
 import time
-import pynput
+
 
 #Initialises mediapipe hand detection
 hand = mp.solutions.hands
